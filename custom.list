@@ -1,9 +1,6 @@
-192.168.1.11 hpljc.lh.sburvt.com
-192.168.1.15 landscape.lh.sburvt.com
 
 10.4.1.3 pbx.sburvt.com
-192.168.1.3 pihole1.lh.sburvt.com
-192.168.1.4 pihole2.lh.sburvt.com
-192.168.1.53 shield.lh.sburvt.com
-192.168.1.8 nanoonanoo.myqnapcloud.com
-192.168.1.7 hal.lh.sburvt.com
+10.0.1.7 hal.lh.sburvt.com
+10.0.1.3 pihole1.lh.sburvt.com
+10.0.1.4 pihole2.lh.sburvt.com
+10.0.1.56 hpljc.lh.sburvt.com
