@@ -1,0 +1,12 @@
+id,type,domain,enabled,date_added,date_modified,comment
+1,0,mobile.pipe.aria.microsoft.com,1,1599054712,1599054712,
+2,0,browser.pipe.aria.microsoft.com,1,1599054722,1599054722,
+3,0,link.theskimm.com,1,1599054728,1599210145,"The Skim Newsletter"
+4,0,geo.nbcsports.com,1,1599054735,1599210134,"NBC Sports"
+5,0,nbcu.demdex.net,1,1599054740,1599210125,"NBC Sports"
+6,0,nbcume.sc.omtrdc.net,1,1599054746,1599210151,"NBC Sports"
+7,0,assets.adobedtm.com,1,1599054752,1599210158,"NBC Sports"
+9,0,mb.moatads.com,1,1599054778,1599210166,"NBC Sports"
+10,0,29773.v.fwmrm.net,1,1599054784,1599210172,"NBC Sports"
+13,2,(\.|^)cws\.conviva\.com$,1,1599212476,1599212526,"NBC Sports, Disney+"
+14,2,(\.|^)tinypass\.com$,1,1599212499,1599212518,"NBC Sports"
