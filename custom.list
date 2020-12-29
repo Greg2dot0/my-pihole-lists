@@ -4,8 +4,8 @@
 10.0.1.3 pihole1.lh.sburvt.com
 10.0.1.4 pihole2.lh.sburvt.com
 10.0.1.15 landscape.lh.sburvt.com
-fd37:99d7:10e:3:d250:99ff:fed6:5824 hal.lh.sburvt.com
 10.0.1.11 hpljc.lh.sburvt.com
-fe80::5054:ff:fe90:7289 pihole1.lh.sburvt.com
-fe80::215:5dff:fe42:5a02 pihole2.lh.sburvt.com
-fe80::215:5dff:fe42:5a03 landscape.lh.sburvt.com
+2601:19b:c700:10a:84c9:5192:1a00:64bc pihole1.lh.sburvt.com
+2601:19b:c700:10a:8155:ef83:7195:1132 pihole2.lh.sburvt.com
+2601:19b:c700:10a:215:5dff:fe42:5a03 landscape.lh.sburvt.com
+2601:19b:c700:10a:d250:99ff:fed6:5824 hal.lh.sburvt.com
