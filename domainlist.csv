@@ -1,7 +1,6 @@
 id,type,domain,enabled,date_added,date_modified,comment
 1,0,mobile.pipe.aria.microsoft.com,1,1599054712,1599054712,""
 2,0,browser.pipe.aria.microsoft.com,1,1599054722,1599054722,""
-3,0,link.theskimm.com,1,1599054728,1599210145,"The Skim Newsletter"
 4,0,geo.nbcsports.com,1,1599054735,1611346750,"NBC Sports"
 5,0,nbcu.demdex.net,1,1599054740,1599210125,"NBC Sports"
 6,0,nbcume.sc.omtrdc.net,1,1599054746,1599210151,"NBC Sports"
@@ -94,4 +93,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 96,0,itunes.apple.com,1,1609839772,1609839772,
 97,0,s.mzstatic.com,1,1609839772,1609839772,
 98,0,tracking-protection.cdn.mozilla.net,1,1609839777,1609839777,
-99,0,link.burton.com,1,1611508343,1611508343,
+100,2,(\.|^)link\.theskimm\.com$,1,1611576160,1611576222,"The Skim Newsletter"
+101,2,(\.|^)link\.burton\.com$,1,1611576237,1611576237,"Burton Snowboards"
