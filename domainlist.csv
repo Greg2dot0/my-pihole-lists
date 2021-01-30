@@ -94,3 +94,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 98,0,tracking-protection.cdn.mozilla.net,1,1609839777,1609839777,
 100,2,(\.|^)link\.theskimm\.com$,1,1611576160,1611576222,"The Skim Newsletter"
 101,2,(\.|^)link\.burton\.com$,1,1611576237,1611576237,"Burton Snowboards"
+102,0,s.skimresources.com,1,1612006248,1612006248,"Added from Query Log"
