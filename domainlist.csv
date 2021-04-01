@@ -1,7 +1,6 @@
 id,type,domain,enabled,date_added,date_modified,comment
 1,0,mobile.pipe.aria.microsoft.com,1,1599054712,1599054712,""
 2,0,browser.pipe.aria.microsoft.com,1,1599054722,1599054722,""
-4,0,geo.nbcsports.com,1,1599054735,1614968447,
 5,0,nbcu.demdex.net,1,1599054740,1599210125,"NBC Sports"
 6,0,nbcume.sc.omtrdc.net,1,1599054746,1614968535,
 7,0,assets.adobedtm.com,1,1599054752,1599210158,"NBC Sports"
@@ -95,3 +94,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 100,2,(\.|^)link\.theskimm\.com$,1,1611576160,1611576222,"The Skim Newsletter"
 101,2,(\.|^)link\.burton\.com$,1,1611576237,1611576237,"Burton Snowboards"
 102,0,s.skimresources.com,1,1612006248,1612006248,"Added from Query Log"
+104,0,geo.nbcsports.com,1,1617305454,1617305454,"NBC Sports"
+107,0,nbcume.hb.omtrdc.net,1,1617306456,1617306625,"NBC Sports (Roku)"
+109,2,(\.|^)manifest\.auditude\.com$,1,1617306959,1617306959,"NBC Sports (Roku)"
