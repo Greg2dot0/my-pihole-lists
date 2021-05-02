@@ -1,11 +1,11 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1599050778,1611585608,"Migrated from /etc/pihole/adlists.list",1619337241,83269,0,1
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1599050778,1611585608,"Migrated from /etc/pihole/adlists.list",1619942041,80541,0,1
 3,https://v.firebog.net/hosts/static/w3kbl.txt,1,1609277266,1618831768,"from https://firebog.net/",1619080569,777,0,2
-6,https://v.firebog.net/hosts/AdguardDNS.txt,1,1609277358,1611585608,,1619337242,36442,0,1
-7,https://v.firebog.net/hosts/Easyprivacy.txt,1,1609277386,1611585608,,1619337242,8788,0,1
+6,https://v.firebog.net/hosts/AdguardDNS.txt,1,1609277358,1611585608,,1619942042,36391,0,1
+7,https://v.firebog.net/hosts/Easyprivacy.txt,1,1609277386,1611585608,,1619942042,8850,0,1
 10,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1609277424,1611585608,,1619080570,2735,0,2
 11,https://v.firebog.net/hosts/Prigent-Crypto.txt,1,1609277424,1611585608,,1619080570,13628,0,2
 24,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1609278158,1611585608,,1619080570,42296,0,2
-26,https://v.firebog.net/hosts/Easylist.txt,1,1609278158,1611585608,,1619337243,11522,0,1
-27,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1609278158,1618831731,"Peter Lowe&#039;s Ad List",1619337244,3585,0,1
-29,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1609278158,1611585608,,1619337244,17604,0,1
+26,https://v.firebog.net/hosts/Easylist.txt,1,1609278158,1611585608,,1619942043,11416,0,1
+27,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1609278158,1618831731,"Peter Lowe&#039;s Ad List",1619942044,3596,0,1
+29,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1609278158,1611585608,,1619942044,17619,0,1
