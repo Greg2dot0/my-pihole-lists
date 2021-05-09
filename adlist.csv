@@ -9,3 +9,4 @@ id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_
 26,https://v.firebog.net/hosts/Easylist.txt,1,1609278158,1611585608,,1620546843,11347,0,1
 27,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1609278158,1618831731,"Peter Lowe&#039;s Ad List",1620546843,3612,0,1
 29,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1609278158,1611585608,,1620546844,17626,0,1
+30,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1620565375,1620565375,"Lightswitch05&#039;s ads-and-tracking-extended",,0,0,0

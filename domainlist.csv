@@ -105,3 +105,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 116,3,(^|\.)logs\.roku\.com$,1,1620554925,1620554925,Roku
 118,3,(^|\.)sr\.roku\.com$,1,1620563461,1620563461,Roku
 119,1,amoeba-plus.web.roku.com,1,1620563703,1620563703,Roku
+120,3,(\.|^)ravm\.tv$,1,1620565216,1620565216,Roku
