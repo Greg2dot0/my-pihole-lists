@@ -1,10 +1,10 @@
 id,type,domain,enabled,date_added,date_modified,comment
 1,0,mobile.pipe.aria.microsoft.com,1,1599054712,1599054712,""
 2,0,browser.pipe.aria.microsoft.com,1,1599054722,1599054722,""
-5,0,nbcu.demdex.net,1,1599054740,1599210125,"NBC Sports"
-6,0,nbcume.sc.omtrdc.net,1,1599054746,1614968535,
+5,0,nbcu.demdex.net,0,1599054740,1620573837,"NBC Sports"
+6,0,nbcume.sc.omtrdc.net,0,1599054746,1620573657,"NBC Sports"
 7,0,assets.adobedtm.com,1,1599054752,1599210158,"NBC Sports"
-9,0,mb.moatads.com,1,1599054778,1599210166,"NBC Sports"
+9,0,mb.moatads.com,1,1599054778,1620573896,"NBC Sports"
 10,0,29773.v.fwmrm.net,1,1599054784,1599210172,"NBC Sports"
 13,2,(\.|^)cws\.conviva\.com$,1,1599212476,1599212526,"NBC Sports, Disney+"
 14,2,(\.|^)tinypass\.com$,1,1599212499,1599212518,"NBC Sports"
@@ -94,9 +94,9 @@ id,type,domain,enabled,date_added,date_modified,comment
 100,2,(\.|^)link\.theskimm\.com$,1,1611576160,1611576222,"The Skim Newsletter"
 101,2,(\.|^)link\.burton\.com$,1,1611576237,1611576237,"Burton Snowboards"
 102,0,s.skimresources.com,1,1612006248,1612006248,"Added from Query Log"
-104,0,geo.nbcsports.com,1,1617305454,1620422535,
-107,0,nbcume.hb.omtrdc.net,1,1617306456,1617306625,"NBC Sports (Roku)"
-109,2,(\.|^)manifest\.auditude\.com$,1,1617306959,1617306959,"NBC Sports (Roku)"
+104,0,geo.nbcsports.com,1,1617305454,1620573641,"NBC Sports"
+107,0,nbcume.hb.omtrdc.net,0,1617306456,1620573931,"NBC Sports (Roku)"
+109,2,(\.|^)manifest\.auditude\.com$,0,1617306959,1620573925,"NBC Sports (Roku)"
 110,1,amoeba.web.roku.com,1,1620554813,1620554813,Roku
 112,1,cloudservices.roku.com,1,1620554841,1620554841,Roku
 113,1,prod.mobile.roku.com,1,1620554862,1620554862,Roku
