@@ -2,12 +2,12 @@ id,type,domain,enabled,date_added,date_modified,comment
 1,0,mobile.pipe.aria.microsoft.com,1,1599054712,1620680388,
 2,0,browser.pipe.aria.microsoft.com,1,1599054722,1620680393,
 5,0,nbcu.demdex.net,0,1599054740,1620680398,"NBC Sports"
-6,0,nbcume.sc.omtrdc.net,0,1599054746,1620573657,"NBC Sports"
-7,0,assets.adobedtm.com,1,1599054752,1599210158,"NBC Sports"
-9,0,mb.moatads.com,1,1599054778,1620573896,"NBC Sports"
-10,0,29773.v.fwmrm.net,1,1599054784,1599210172,"NBC Sports"
-13,2,(\.|^)cws\.conviva\.com$,1,1599212476,1599212526,"NBC Sports, Disney+"
-14,2,(\.|^)tinypass\.com$,1,1599212499,1599212518,"NBC Sports"
+6,0,nbcume.sc.omtrdc.net,0,1599054746,1620680403,"NBC Sports"
+7,0,assets.adobedtm.com,1,1599054752,1620680840,"NBC Sports"
+9,0,mb.moatads.com,1,1599054778,1620680843,"NBC Sports"
+10,0,29773.v.fwmrm.net,1,1599054784,1620680848,"NBC Sports"
+13,2,(\.|^)cws\.conviva\.com$,1,1599212476,1620680845,"NBC Sports, Disney+"
+14,2,(\.|^)tinypass\.com$,1,1599212499,1620680850,"NBC Sports"
 16,0,clients4.google.com,1,1609839771,1609839771,
 17,0,clients2.google.com,1,1609839771,1609839771,
 18,0,googleapis.l.google.com,1,1609839771,1609839771,
