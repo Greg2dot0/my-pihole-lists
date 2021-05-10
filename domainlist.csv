@@ -1,7 +1,7 @@
 id,type,domain,enabled,date_added,date_modified,comment
-1,0,mobile.pipe.aria.microsoft.com,1,1599054712,1599054712,""
-2,0,browser.pipe.aria.microsoft.com,1,1599054722,1599054722,""
-5,0,nbcu.demdex.net,0,1599054740,1620573837,"NBC Sports"
+1,0,mobile.pipe.aria.microsoft.com,1,1599054712,1620680388,
+2,0,browser.pipe.aria.microsoft.com,1,1599054722,1620680393,
+5,0,nbcu.demdex.net,0,1599054740,1620680398,"NBC Sports"
 6,0,nbcume.sc.omtrdc.net,0,1599054746,1620573657,"NBC Sports"
 7,0,assets.adobedtm.com,1,1599054752,1599210158,"NBC Sports"
 9,0,mb.moatads.com,1,1599054778,1620573896,"NBC Sports"
@@ -97,12 +97,3 @@ id,type,domain,enabled,date_added,date_modified,comment
 104,0,geo.nbcsports.com,1,1617305454,1620573641,"NBC Sports"
 107,0,nbcume.hb.omtrdc.net,0,1617306456,1620573931,"NBC Sports (Roku)"
 109,2,(\.|^)manifest\.auditude\.com$,0,1617306959,1620573925,"NBC Sports (Roku)"
-110,1,amoeba.web.roku.com,1,1620554813,1620554813,Roku
-112,1,cloudservices.roku.com,1,1620554841,1620554841,Roku
-113,1,prod.mobile.roku.com,1,1620554862,1620554862,Roku
-114,1,wwwimg.roku.com,1,1620554881,1620554881,Roku
-115,3,(^|\.)ads\.roku\.com$,1,1620554898,1620554898,Roku
-116,3,(^|\.)logs\.roku\.com$,1,1620554925,1620554925,Roku
-118,3,(^|\.)sr\.roku\.com$,1,1620563461,1620563461,Roku
-119,1,amoeba-plus.web.roku.com,1,1620563703,1620563703,Roku
-120,3,(\.|^)ravm\.tv$,1,1620565216,1620565216,Roku
